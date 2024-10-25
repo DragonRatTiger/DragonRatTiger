@@ -12,7 +12,7 @@ Desktop software for previewing & editing CHP files, used in select games for ch
 
 The project aims to not only revitalize a nearly forgotten file format, but document every detail of it in order to expand its use beyond the limited number of applications that support it.
 
-## [OpenTaiko](https://github.com/0auBSQ/OpenTaiko) (led by [0auBSQ](https://github.com/0auBSQ)) [[GitHub Organization](https://github.com/OpenTaiko)]
+## [OpenTaiko](https://github.com/0auBSQ/OpenTaiko) [[GitHub Organization](https://github.com/OpenTaiko)]
 
 A non-profit open-source rhythm game, with additional repositories dedicated to managing the massive amounts of content provided for users to engage with.
 
